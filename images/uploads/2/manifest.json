@@ -1,0 +1,347 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://collection.annefrank.org/manifest/edac0cb3-8915-4662-a2df-6c15ffc98566",
+  "type": "Manifest",
+  "label": {
+    "nl": [
+      "Peter van Pels  tussen jongens van een jeugdgroep van de Jüdische Pfadfinder Deutschlands, Osnabrück, ca. 1936"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "nl": [
+          "Titel"
+        ]
+      },
+      "value": {
+        "none": [
+          "Peter van Pels  tussen jongens van een jeugdgroep van de Jüdische Pfadfinder Deutschlands, Osnabrück, ca. 1936"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Beschrijving"
+        ]
+      },
+      "value": {
+        "none": [
+          "Groepsfoto in zwartwit van zeven jongens van een jeugdgroep van - vermoedelijk - de Jüdische Pfadfinder Deutschlands, Osnabrück, rond 1935/36. V.l.n.r. Rudolph Jacobson, Simin Siegbert Schoeps, Martin Trepp, Peter van Pels, Ewald Aul, Fritz Loewenstein, Ernst Weinberg, Osnabrück, 1936"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Type"
+        ]
+      },
+      "value": {
+        "none": [
+          "Foto's"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Materiaal"
+        ]
+      },
+      "value": {
+        "none": [
+          "Fotopapier"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum van"
+        ]
+      },
+      "value": {
+        "none": [
+          "1936"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Datum tot"
+        ]
+      },
+      "value": {
+        "none": [
+          "1936"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Vervaardiger"
+        ]
+      },
+      "value": {
+        "none": [
+          "Gittelsohn, Laura"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Plaats van vervaardigen"
+        ]
+      },
+      "value": {
+        "none": [
+          "Osnabrück"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Persoon"
+        ]
+      },
+      "value": {
+        "none": [
+          "Pels, Peter van, Jacobson, Rudolf, Loewenstein, Fritz, Loewenstein, Fritz, Loewenstein, Fritz, Jüdische Pfadfinder Deutschlands"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Onderwerp"
+        ]
+      },
+      "value": {
+        "none": [
+          "Padvinderij"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Gebruiksrechten"
+        ]
+      },
+      "value": {
+        "none": [
+          "https://rightsstatements.org/vocab/InC-RUU/1.0/"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Bronvermelding"
+        ]
+      },
+      "value": {
+        "none": [
+          "Fotocollectie: Anne Frank Stichting, Amsterdam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Collectie"
+        ]
+      },
+      "value": {
+        "none": [
+          "Peter van Pels "
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Identificatie"
+        ]
+      },
+      "value": {
+        "none": [
+          "A_vPels_III_007"
+        ]
+      }
+    },
+    {
+      "label": {
+        "nl": [
+          "Categorie"
+        ]
+      },
+      "value": {
+        "none": [
+          "Beeldmateriaal"
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "nl": [
+      "Foto's, Groepsfoto in zwartwit van zeven jongens van een jeugdgroep van - vermoedelijk - de Jüdische Pfadfinder Deutschlands, Osnabrück, rond 1935/36. V.l.n.r. Rudolph Jacobson, Simin Siegbert Schoeps, Martin Trepp, Peter van Pels, Ewald Aul, Fritz Loewenstein, Ernst Weinberg, Osnabrück, 1936"
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://maior-images.memorix.nl/anf/iiif/0ac4385e-88f0-ff28-d747-7a60a9f9abe3/full/100,/0/default.jpg",
+      "type": "image"
+    }
+  ],
+  "provider": [
+    {
+      "id": "https://www.annefrank.org/",
+      "type": "Agent",
+      "label": {
+        "nl": [
+          "Anne Frank Stichting"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https://www.annefrank.org/",
+          "type": "Agent",
+          "label": {
+            "nl": [
+              "Anne Frank Stichting"
+            ]
+          },
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://www.annefrank.org/static/ico/favicon.ico",
+          "type": "Image",
+          "format": "image/png",
+          "height": 48,
+          "width": 48
+        }
+      ]
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "nl": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "nl": [
+        "Voor vragen over Copyright kunt u contact opnemen met de Anne Frank Stichting"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://maior-images.memorix.nl/anf/iiif/0ac4385e-88f0-ff28-d747-7a60a9f9abe3/canvas",
+      "type": "Canvas",
+      "height": 2808,
+      "width": 4200,
+      "label": {
+        "nl": [
+          "A_vPels_III_007"
+        ]
+      },
+      "items": [
+        {
+          "@context": "http://iiif.io/api/presentation/3/context.json",
+          "id": "https://maior-images.memorix.nl/anf/iiif/0ac4385e-88f0-ff28-d747-7a60a9f9abe3/annopage",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "@context": "http://iiif.io/api/presentation/3/context.json",
+              "id": "https://maior-images.memorix.nl/anf/iiif/0ac4385e-88f0-ff28-d747-7a60a9f9abe3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://maior-images.memorix.nl/anf/iiif/0ac4385e-88f0-ff28-d747-7a60a9f9abe3/canvas",
+              "body": {
+                "id": "https://maior-images.memorix.nl/anf/iiif/0ac4385e-88f0-ff28-d747-7a60a9f9abe3/full/max/0/default.jpg",
+                "type": "Image",
+                "label": {
+                  "nl": [
+                    "A_vPels_III_007"
+                  ]
+                },
+                "format": "image/jpeg",
+                "height": 2808,
+                "width": 4200,
+                "service": [
+                  {
+                    "profile": "level2",
+                    "id": "https://maior-images.memorix.nl/anf/iiif/0ac4385e-88f0-ff28-d747-7a60a9f9abe3",
+                    "type": "ImageService3"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://maior-images.memorix.nl/anf/iiif/0ac4385e-88f0-ff28-d747-7a60a9f9abe3/canvas/pages/f082e725-6463-4c8a-bc0f-66e2001cd0ed",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "type": "Annotation",
+              "motivation": "commenting",
+              "target": {
+                "source": "https://maior-images.memorix.nl/anf/iiif/0ac4385e-88f0-ff28-d747-7a60a9f9abe3/canvas",
+                "selector": {
+                  "type": "SvgSelector",
+                  "value": "<svg><polygon points=\"1988.6556396484375,806.487060546875 2088.33544921875,2216.849853515625 2464.78564453125,2218.405029296875 2477.5107421875,793.1964111328125 2295.117919921875,759.2628784179688 2206.04248046875,763.5045776367188\"></polygon></svg>"
+                }
+              },
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "purpose": "describing",
+                  "language": "en",
+                  "format": "text/plain",
+                  "value": "Title: Peter van Pels"
+                },
+                {
+                  "type": "TextualBody",
+                  "purpose": "describing",
+                  "language": "en",
+                  "format": "text/plain",
+                  "value": "Description: The person in the middle is Peter."
+                },
+                {
+                  "type": "TextualBody",
+                  "purpose": "classifying",
+                  "language": "en",
+                  "format": "text/plain",
+                  "value": "Line Color: #506DAC"
+                },
+                {
+                  "type": "TextualBody",
+                  "purpose": "commenting",
+                  "language": "en",
+                  "format": "text/plain",
+                  "value": "Line Weight: Medium"
+                }
+              ],
+              "id": "https://maior-images.memorix.nl/anf/iiif/0ac4385e-88f0-ff28-d747-7a60a9f9abe3/canvas/annotations/413ce546-9858-4f5d-81c0-db7c4020bba2",
+              "created": "2025-05-13T09:07:57.972Z",
+              "modified": "2025-05-13T09:07:57.972Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
